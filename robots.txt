@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://exploreexception.github.io/olivaro/sitemap.xml
+Sitemap: https://olivaro.vercel.app/sitemap-vercel.xml
+Sitemap: https://olivaro.pages.dev/sitemap-cloudflare.xml

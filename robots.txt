@@ -3,4 +3,4 @@ Allow: /
 
 Sitemap: https://exploreexception.github.io/olivaro/sitemap.xml
 Sitemap: https://olivaro-explore16.vercel.app/sitemap-vercel.xml
-Sitemap: https://olivaro.pages.dev/sitemap-cloudflare.xml
+Sitemap: https://olivaro-1j5.pages.dev/sitemap-cloudflare.xml
